@@ -1,0 +1,8 @@
+---
+title: "About Me"
+---
+
+My name ia Ana Clara Vieira Zaidan. I am a Second Year Ph.D. student in Experimental Psychology at the University of Mississippi. I am building this website to lean more about R and Python, and share my journey doing so.
+```{r}
+1 + 1
+```
